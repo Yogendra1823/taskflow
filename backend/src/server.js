@@ -52,6 +52,9 @@ app.use('/api/dashboard', require('./routes/dashboard'));
 app.use('/api/projects', require('./routes/projects'));
 app.use('/api/projects/:projectId/tasks', require('./routes/tasks'));
 
+// Root route
+app.get('/', (req, res) => res.json({ message: 'Welcome to TaskFlow API' }));
+
 // 404
 app.use((req, res) => res.status(404).json({ error: 'Route not found.' }));
 
