@@ -277,19 +277,8 @@ git push -u origin main
 
 ---
 
-## 📸 Demo Video
-> Record a 2–5 minute walkthrough showing:
-> 1. Signup & login
-> 2. Create a project
-> 3. Invite a team member
-> 4. Create tasks & assign them
-> 5. Move tasks through the kanban board
-> 6. Dashboard stats
-
----
-
 ## 📄 License
 MIT — free for personal and commercial use.
 
 ---
-**Created by [Yogendra1823](https://github.com/Yogendra1823) — This is my project!**
+**Created by [Yogendra1823](https://github.com/Yogendra1823) — Medarametla Yogendra**
