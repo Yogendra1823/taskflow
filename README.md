@@ -3,9 +3,8 @@
 A full-stack web application for managing projects, assigning tasks, and tracking progress with role-based access control.
 
 ## 🚀 Live Demo
-> Replace with your deployed URL after deployment  
-> **Frontend:** `https://taskflow-gamma-neon.vercel.app`  
-> **API:** `https://taskflow-api-6k8a.onrender.com`
+- **Frontend:** [https://taskflow-gamma-neon.vercel.app](https://taskflow-gamma-neon.vercel.app)
+- **API:** [https://taskflow-api-6k8a.onrender.com](https://taskflow-api-6k8a.onrender.com)
 
 ---
 
@@ -282,4 +281,3 @@ MIT — free for personal and commercial use.
 
 ---
 **Created by [Yogendra1823](https://github.com/Yogendra1823) — Medarametla Yogendra**
-
