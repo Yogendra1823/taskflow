@@ -4,8 +4,8 @@ A full-stack web application for managing projects, assigning tasks, and trackin
 
 ## 🚀 Live Demo
 > Replace with your deployed URL after deployment  
-> **Frontend:** `[https://taskflow-gamma-neon.vercel.app](https://taskflow-gamma-neon.vercel.app)`  
-> **API:** `[https://taskflow-backend.onrender.com](https://taskflow-api-6k8a.onrender.com)`
+> **Frontend:** `https://taskflow-gamma-neon.vercel.app`  
+> **API:** `https://taskflow-api-6k8a.onrender.com`
 
 ---
 
